@@ -1,3 +1,20 @@
+## Hi there 👋
+I'm Santhiya, a beginner in web development passionate about learning new technologies and creating impactful projects. 🌟
+
+### Skills:
+- 🌐 HTML | CSS | JavaScript
+- 💾 Python | SQL | c | java
+- 🌱 Currently learning React and GitHub workflows.
+
+### Projects:
+- [Portfolio Website](https://github.com/santhiya777/portfolio) - A responsive portfolio website using HTML/CSS/JS.
+- [Weather App](https://github.com/santhiya777/weather-app) - A JavaScript app that fetches live weather data.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/santhiya-p-15a928258/)! 😊
+
+
+
+
 <header>
 
 <!--
